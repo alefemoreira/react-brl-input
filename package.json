@@ -14,7 +14,7 @@
     "url": "react-brl-input"
   },
   "author": "Álefe Moreira",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.18.9",
     "@rollup/plugin-commonjs": "^22.0.1",
